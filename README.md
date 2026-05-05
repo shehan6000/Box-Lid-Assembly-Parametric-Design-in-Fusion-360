@@ -26,15 +26,10 @@ The project follows a strict "Rule #1" workflow in Fusion 360:
 
 
 
-## 📂 Project Structure
-*   **/Models:** Contains the `.f3d` (Fusion 360) and `.step` files.
-*   **/Renders:** High-quality visualizations of the final assembly.
-*   **/Specs:** Brief documentation on the fastener sizes used (e.g., Socket Head Cap Screws).
 
-## 🚀 How to Use
-1.  Download the `.f3d` file from the `/Models` folder.
-2.  Open in **Autodesk Fusion 360**.
-3.  Review the **Timeline** to see the step-by-step progression from initial box sketch to final hardware mating.
+https://github.com/user-attachments/assets/4595ad92-db10-4edc-9834-3bdab6ceec8e
+
+
 
 ---
 
